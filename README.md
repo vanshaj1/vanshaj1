@@ -49,9 +49,9 @@
 </p>
 <br/>
 <p align="center"> 
-	<a href="https://github.com/ritikramuka"><img src="https://komarev.com/ghpvc/?username=ritikramuka" alt="ritikramuka"/></a>
-	<a href="https://github.com/ritikramuka?tab=repositories"><img src="https://badges.pufler.dev/repos/ritikramuka" alt="ritikramuka" /> </a>
-	<img src="https://img.shields.io/github/stars/ritikramuka?label=Stars" alt="Total Stars">
+	<a href="https://github.com/vanshaj1"><img src="https://komarev.com/ghpvc/?username=vanshaj1" alt="vanshaj1"/></a>
+	<a href="https://github.com/vanshaj1?tab=repositories"><img src="https://badges.pufler.dev/repos/vanshaj1" alt="vanshaj1" /> </a>
+	<img src="https://img.shields.io/github/starsvanshaj1?label=Stars" alt="Total Stars">
 </p>
 
 <!---
