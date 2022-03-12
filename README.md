@@ -51,7 +51,7 @@
 <p align="center"> 
 	<a href="https://github.com/vanshaj1"><img src="https://komarev.com/ghpvc/?username=vanshaj1" alt="vanshaj1"/></a>
 	<a href="https://github.com/vanshaj1?tab=repositories"><img src="https://badges.pufler.dev/repos/vanshaj1" alt="vanshaj1" /> </a>
-	<img src="https://img.shields.io/github/starsvanshaj1?label=Stars" alt="Total Stars">
+	<img src="https://img.shields.io/github/stars/vanshaj1?label=Stars" alt="Total Stars">
 </p>
 
 <!---
