@@ -1,10 +1,10 @@
 ## I'm a Developer!!
 
 - 👋 Hi, I’m @vanshaj1
-- 👀 I’m interested in Django projects
+- 👀 I’m interested in Django and MERN projects
 - 🌱 I’m currently learning Data Structure and Algorithm 
 - 👯 I’m looking to collaborate with java developers
-- 🥅 2022 Goals: Learn Django, Flask and other Frameworks
+- 🥅 2023 Goals: Learn Django, Flask and other Frameworks
 - ⚡ Fun fact: My favourite game is cricket
 
 ### Connect with me:
